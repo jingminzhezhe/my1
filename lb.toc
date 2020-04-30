@@ -1,0 +1,10 @@
+\beamer@sectionintoc {1}{NAS概念}{3}{0}{1}
+\beamer@subsectionintoc {1}{1}{初步的认识及需求}{3}{0}{1}
+\beamer@sectionintoc {2}{解决的方案}{14}{0}{2}
+\beamer@subsectionintoc {2}{1}{云主机}{14}{0}{2}
+\beamer@subsectionintoc {2}{2}{树莓派}{20}{0}{2}
+\beamer@subsectionintoc {2}{3}{专业集成套件}{25}{0}{2}
+\beamer@sectionintoc {3}{外网访问}{32}{0}{3}
+\beamer@subsectionintoc {3}{1}{内网穿透}{32}{0}{3}
+\beamer@sectionintoc {4}{超级局域网——睿思}{36}{0}{4}
+\beamer@subsectionintoc {4}{1}{原理介绍}{36}{0}{4}
